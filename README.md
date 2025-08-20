@@ -27,12 +27,9 @@ Here you’ll find projects showcasing my skills in **Python, SQL, Power BI, Tab
 ---
 
 ### 4. [Movie Dataset Analysis](https://github.com/gmike070/Movie-Recommendation-Analysis)
-- Explored IMDb dataset to study movie profitability.
-- Visualized trends in Tableau.
-- Tools: Python, Tableau.
-🎬 Movie Data Analysis & Recommendation System
+# 🎬 Movie Data Analysis & Recommendation System
 
-Overview:
+## Overview:
 Analyzed a large movie dataset to uncover financial and audience-driven insights. The project focused on profitability analysis, language-based gross earnings, and genre-level performance to understand key drivers of success in the film industry.
 
 Key Highlights:
@@ -60,4 +57,4 @@ Delivered actionable insights for production, marketing, and distribution strate
 ## 📬 Contact
 - LinkedIn: [Your Profile Link]  
 - GitHub: [Your GitHub Link]  
-- Email: [Your Email]  
+- Email: [gideonmichael07@gmail.com]  
