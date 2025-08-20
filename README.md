@@ -1,7 +1,7 @@
 # 📊 Data Analyst Portfolio
 
 Welcome to my Data Analyst portfolio!  
-Here you’ll find projects showcasing my skills in **Python, SQL, Power BI, Tableau, and data storytelling**.
+Here you’ll find projects showcasing my skills in **Python, SQL, Power BI, and data storytelling**.
 
 ## 🔹 Featured Projects
 
