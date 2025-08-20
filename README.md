@@ -8,7 +8,7 @@ Here you’ll find projects showcasing my skills in **Python, SQL, Power BI, Tab
 ### 1. [Startup Ecosystem Analysis in India](https://github.com/gmike070/Startups_Company_in_India_Analysis)
 # 🚀 Startup Ecosystem Analysis in India
 
-Overview:
+## Overview:
 Analyzed 5,000+ startup records to uncover patterns in funding, industry growth, and geographical distribution. The project focused on identifying top-funded industries, leading startup hubs, and the role of investors in shaping the Indian startup ecosystem.
 
 ### Key Highlights:
@@ -23,7 +23,7 @@ Analyzed 5,000+ startup records to uncover patterns in funding, industry growth,
 
 🔗 Correlations: Explored links between funding size, industry verticals, and location.
 
-Impact:
+### Impact:
 Delivered actionable insights into India’s startup ecosystem, highlighting investment patterns and regional strengths while showcasing skills in Python, Pandas, Seaborn, and data storytelling.
 
 ---
@@ -48,7 +48,7 @@ Delivered actionable insights into India’s startup ecosystem, highlighting inv
 ## Overview:
 Analyzed a large movie dataset to uncover financial and audience-driven insights. The project focused on profitability analysis, language-based gross earnings, and genre-level performance to understand key drivers of success in the film industry.
 
-Key Highlights:
+## Key Highlights:
 
 📈 Profitability Analysis: Identified top movies by ROI and profit, highlighting trends in budget discipline and returns.
 
@@ -60,9 +60,9 @@ Key Highlights:
 
 🤖 Recommendation System: Built a content-based recommender using genres, actors, and directors to suggest similar movies.
 
-Impact:
+## Impact:
 Delivered actionable insights for production, marketing, and distribution strategies while showcasing skills in Python, Pandas, data visualization, and recommendation systems.
----
+
 
 ## 🛠️ Skills Highlight
 - **Programming & Analysis:** Python (Pandas, NumPy, Scikit-learn), SQL  
