@@ -36,9 +36,33 @@ Delivered actionable insights into India’s startup ecosystem, highlighting inv
 ---
 
 ### 3. [Customer Churn Prediction](https://github.com/gmike070/Churn-Risk-Analysis-for-Premium-Clients-SQL-Deliverables-/blob/main/README.md)
-- Processed 20k+ Bank of America customer records.
-- Built churn prediction model with 85% accuracy.
-- Tools: SQL.
+## 🧾 Executive Summary
+We analysed churn behaviour and customer segmentation across different customer profitability tiers to uncover key trends and areas of concern. Findings show that churn is disproportionately affecting high-value customers, despite their smaller share of the total customer base. This poses a risk to revenue sustainability and long-term customer lifetime value.
+________________________________________
+
+
+## 🎯 Objectives
+•	Identify churn rates across revenue-defined customer tiers
+•	Understand engagement and transaction behaviour by segment
+•	Recommend actions to retain valuable, at-risk customers
+________________________________________
+## 🛠️ Skills Highlight
+- Tools: SQL,Excel
+
+## 📊 Key Findings
+•	Top 15% of customers (ranked by revenue) contributing over 60% of total revenue
+•	Categorized high-value group, churn rate, indicating vulnerability
+•	Segregation of Customers based on risk flag category, engagement score  
+•	Count of total customer 
+•	Customer’s profitability tier 
+
+## ✅ Recommendations
+•	Targeted retention programs for top-tier customers with low engagement
+•	Implement a churn early-warning system using engagement and transaction data
+•	Personalize communication for region customers to improve engagement score 
+•	Re-evaluate product offerings for current account holders to improve stickiness
+________________________________________
+
 
 ---
 
