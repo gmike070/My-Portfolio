@@ -5,7 +5,7 @@ Here you’ll find projects showcasing my skills in **Python, SQL, Power BI, and
 
 ## 🔹 Featured Projects
 
-### 1. [Startup Ecosystem Analysis in India](https://github.com/gmike070/Startups_Company_in_India_Analysis)
+### 1. [Startup Ecosystem Analysis in India](Startups_Company_in_India_Analysis/README.md)
 # 🚀 Startup Ecosystem Analysis in India
 
 ## Overview:
