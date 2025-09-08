@@ -36,14 +36,16 @@ Delivered actionable insights into India’s startup ecosystem, highlighting inv
 ---
 
 ### 3. [Customer Churn Prediction](https://github.com/gmike070/Churn-Risk-Analysis-for-Premium-Clients-SQL-Deliverables-/blob/main/README.md)
-## 🧾 Executive Summary
+## 🧾 Overview:
 We analysed churn behaviour and customer segmentation across different customer profitability tiers to uncover key trends and areas of concern. Findings show that churn is disproportionately affecting high-value customers, despite their smaller share of the total customer base. This poses a risk to revenue sustainability and long-term customer lifetime value.
 ________________________________________
 
 
 ## 🎯 Objectives
 •	Identify churn rates across revenue-defined customer tiers
+
 •	Understand engagement and transaction behaviour by segment
+
 •	Recommend actions to retain valuable, at-risk customers
 ________________________________________
 ## 🛠️ Skills Highlight
