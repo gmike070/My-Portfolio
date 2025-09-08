@@ -35,7 +35,7 @@ Delivered actionable insights into India’s startup ecosystem, highlighting inv
 
 ---
 
-### 3. [Customer Churn Prediction](projects/customer-churn/README.md)
+### 3. [Customer Churn Prediction](https://github.com/gmike070/Churn-Risk-Analysis-for-Premium-Clients-SQL-Deliverables-/blob/main/README.md)
 - Processed 20k+ telecom customer records.
 - Built churn prediction model with 85% accuracy.
 - Tools: Python (Scikit-learn).
